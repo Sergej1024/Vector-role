@@ -1,7 +1,6 @@
 ---
 # defaults file for Vector-role
 vector_version: 0.22.0
-vector_dirs: "vector"
 arch: x86_64
 vector_config_dir: "/etc/vector"
 
